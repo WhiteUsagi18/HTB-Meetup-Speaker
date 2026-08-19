@@ -1,4 +1,4 @@
-![poster](asset/HTB UPM Poster)
+![poster](asset/HTB UPM Poster.jpeg)
 
 # 💻HTB MEETUP: INTRODUCTION TO BASICS 🟩
 
