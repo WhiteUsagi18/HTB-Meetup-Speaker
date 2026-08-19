@@ -1,4 +1,4 @@
-![poster](HTB-Meetup-Speaker/10-1-HTB-Meetup-UPM/asset/HTB-UPM-Poster.jpeg)
+![poster](asset/HTB%20UPM%20Poster.jpeg)
 
 # 💻HTB MEETUP: INTRODUCTION TO BASICS 🟩
 
