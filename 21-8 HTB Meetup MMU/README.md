@@ -4,8 +4,8 @@
 
 Get ready to track down that missing flag! Join us for a hands-on cybersecurity meetup at MMU to develop practical skills through exciting HTB challenges and technical workshops. Network with the community, learn new techniques, and bring your hacking A-game.
 
-📆 Date: 21 August 2026 (Friday)
-⏰️ Time: 7:00 pm – 9:00 pm (Note: Prayer break from 7:30 pm – 7:45 pm)
+📆 Date: 21 August 2026 (Friday)\
+⏰️ Time: 7:00 pm – 9:00 pm (Note: Prayer break from 7:30 pm – 7:45 pm)\
 📌 Venue: CNMX 1003 Multipurpose Hall, Multimedia University (MMU), Cyberjaya Campus
 
 Preparation Checklist:
